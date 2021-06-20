@@ -6,6 +6,7 @@ numpy==1.20.3
 pymongo==3.11.4
 Flask_Mail==0.9.1
 bcrypt
+pickle
 xgboost
 dnspython
 sklearn
